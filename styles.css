@@ -104,7 +104,7 @@ a {
 
 .name {
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 150%;
 }
 
@@ -124,7 +124,7 @@ a {
 .social-link {
   font-weight: 600;
   font-size: 14px;
-  padding: 12px;
+  padding: 16px;
   border-radius: 8px;
   background-color: var(--grey-700);
 }
